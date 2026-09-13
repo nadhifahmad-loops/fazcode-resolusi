@@ -3,3 +3,4 @@ Fazcode resolusi
 - Membuat forum diskusi
 - Membuat video yutub
 - kolaborasi dengan beberapa expert
+- Target 100 project
